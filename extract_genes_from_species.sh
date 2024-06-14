@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define the directory containing the FASTA files for multiple species
+# Define the directory containing the FASTA files for multiple species (each file would contain fasta sequences of all annotated genes in one sample)
 multi_species_dir="/Directory/for/Species_hub"
 
 # Define an array of genes to search for
